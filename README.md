@@ -1,0 +1,2 @@
+# Algorithms
+Solving algorithmic tasks
