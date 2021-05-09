@@ -7,3 +7,4 @@ Solving algorithmic tasks
 - [Defanging an IP Address](Solutions/Task_2.playground/Contents.swift)
 - [Kids With the Greatest Number of Candies](Solutions/Task_3.playground/Contents.swift)
 - [Richest Customer Wealth](Solutions/Task_4.playground/Contents.swift)
+- [Shuffle the Array](Solutions/Task_5.playground/Contents.swift)
