@@ -26,6 +26,7 @@ let indices2 = [0,1,2]
 
 func restoreString(_ s: String, _ indices: [Int]) -> String {
     
+    guard Array(s).count == indices.count else { return "" }
     var result = Array(s)
     
     for (index, value) in indices.enumerated() {
