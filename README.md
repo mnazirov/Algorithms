@@ -13,3 +13,4 @@ Solving algorithmic tasks
 - [How Many Numbers Are Smaller Than the Current Number](Solutions/Task_8.playground/Contents.swift)
 - [Subtract the Product and Sum of Digits of an Integer](Solutions/Task_9.playground/Contents.swift)
 - [Shuffle String](Solutions/Task_10.playground/Contents.swift)
+- [Number of Steps to Reduce a Number to Zero](Solutions/Task_11.playground/Contents.swift)
