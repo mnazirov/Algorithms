@@ -14,3 +14,4 @@ Solving algorithmic tasks
 - [Subtract the Product and Sum of Digits of an Integer](Solutions/Task_9.playground/Contents.swift)
 - [Shuffle String](Solutions/Task_10.playground/Contents.swift)
 - [Number of Steps to Reduce a Number to Zero](Solutions/Task_11.playground/Contents.swift)
+- [Decompress Run-Length Encoded List](Solutions/Task_12.playground/Contents.swift)
