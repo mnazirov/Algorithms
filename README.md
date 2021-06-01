@@ -15,4 +15,4 @@ Solving algorithmic tasks
 - [Shuffle String](Solutions/Task_10.playground/Contents.swift)
 - [Number of Steps to Reduce a Number to Zero](Solutions/Task_11.playground/Contents.swift)
 - [Decompress Run-Length Encoded List](Solutions/Task_12.playground/Contents.swift)
-- [Create Target Array in the Given Order](Solutions/Task_13.playground/Contents.swift)
+- [Create Target Array in the Given Order + Unit Testing](Solutions/Task_13.playground/Contents.swift)
