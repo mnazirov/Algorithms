@@ -17,4 +17,5 @@ Solving algorithmic tasks
 - [Decompress Run-Length Encoded List](Solutions/Task_12.playground/Contents.swift)
 - [Create Target Array in the Given Order + Unit Testing](Solutions/Task_13.playground/Contents.swift)
 - [Goal Parser Interpretation + Unit Testing](Solutions/Task_14.playground/Contents.swift)
+- [Valid Parentheses + Unit Testing](Solutions/Task_15.playground/Contents.swift)
 
