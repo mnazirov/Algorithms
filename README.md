@@ -19,3 +19,4 @@ Solving algorithmic tasks
 - [Easy — Goal Parser Interpretation + Unit Testing](Solutions/Task_14.playground/Contents.swift)
 - [Easy — Valid Parentheses + Unit Testing](Solutions/Task_15.playground/Contents.swift)
 - [Easy — Move Zeroes + Unit Testing](Solutions/Task_16.playground/Contents.swift)
+- [Easy — Middle of the Linked List](Solutions/Task_17.playground/Contents.swift)
